@@ -1,0 +1,16 @@
+{
+  "name": "code",
+  "description": "This is an manual package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.16.4",
+    "morgan": "^1.10.0"
+  }
+}
